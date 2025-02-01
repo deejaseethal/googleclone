@@ -1,0 +1,11 @@
+- tasks not completed 
+- pseudo class
+- semantic tag
+- inline vs block elements 
+- em vs rem
+- inline style, internal style
+- target attribute in <a> tag
+- universal selector (*)
+- position absolute, relative
+- img alt attribute
+- z-index
